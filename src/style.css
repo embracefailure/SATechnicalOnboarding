@@ -10,7 +10,7 @@ main {
     grid-template-columns: 50% 50%;
 }
 
-.main{
+main{
     width: 100%;
     background:linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0, 0, 0, 0.5)50%),url(C:\OneDrive-StudentAmbassadors\website\background.jpg);
     background-position: center;
