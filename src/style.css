@@ -5,10 +5,10 @@ body {
     background-color:E6F7FF;
 }
 
-main {
+/* main {
     display: grid;
     grid-template-columns: 50% 50%;
-}
+} */
 
 main{
     width: 100%;
