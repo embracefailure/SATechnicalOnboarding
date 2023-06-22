@@ -10,6 +10,13 @@ main {
     grid-template-columns: 50% 50%;
 }
 
+.main{
+    width: 100%;
+    background:linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0, 0, 0, 0.5)50%),url(C:\OneDrive-StudentAmbassadors\website\background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
 
 .box {
     box-shadow: .1em .1em .2em #80D4FF;
